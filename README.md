@@ -6,3 +6,9 @@ This Repository shows my learning progress with python basics like methods, clas
 
 **The Notebook about Thanksgiving data should demonstrate my knowledge about pandas and numpy:**
 - [Thanksgiving survey](thanksgivingEatingHabits.ipynb)
+
+**The Notebook about the performance of schools in New York city shows knowledge about vizualization of dataframes:**
+- [NYC Schools](NCYSchoolsPerformance.ipynb)
+
+**The Notebook about survey answers concerning stars wars movies shows knowledge about data cleaning an preparing data from diffrent source files and merging them into one dataframe:**
+- [Star Wars Survey](AnalyzingStarWarsSurvey.ipynb)
